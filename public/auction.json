@@ -1,0 +1,69 @@
+[
+	{
+		"id": 1,
+		"title": "In ornare sagittis felis. Donec tempor, est ac mattis semper,",
+		"description": "Vintage Leica M3 Camera",
+		"currentBid": 2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 3,
+		"image": "https://i.postimg.cc/vDwQkMXd/Bid1-min.png"
+	},
+	{
+		"id": 2,
+		"title": "1965 Gibson SG Standard Electric Guitar",
+		"description": "1965 Gibson SG Standard Electric Guitar",
+		"currentBid": 2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 8,
+		"image": "https://i.ibb.co/fYbzkhbn/Bid2-min.png"
+	},
+	{
+		"id": 3,
+		"title": "Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor",
+		"description": "Original Apple Macintosh 128k(1984)",
+		"currentBid": 2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 6,
+		"image": "https://i.ibb.co/600DdxnB/Bid3-min.png"
+	},
+	{
+		"id": 4,
+		"title": "porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris",
+		"description": "Rolex Submariner 16610",
+		"currentBid": 2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 2,
+		"image": "https://i.postimg.cc/3J2pRxsm/Bid4-min.png"
+	},
+	{
+		"id": 5,
+		"title": "non massa non ante bibendum ullamcorper. Duis cursus, diam at",
+		"description": "First Edition 'The Great Gatsby' by F.Scott Fitzgerald",
+		"currentBid":2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 9,
+		"image": "https://i.ibb.co/j9dzf7dd/Bid5-min.png"
+	},
+	{
+		"id": 6,
+		"title": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+		"description": "Mid-Century Modern Eames Lounge Chair",
+		"currentBid":2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 3,
+		"image": "https://i.ibb.co/PZyYCTdw/Bid6-min.png"
+	},
+	{
+		"id": 7,
+		"title": "convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula",
+		"description": "Banksy Original Screen Print.",
+		"currentBid": 2850,
+		"timeLeft": "2 Days left",
+		"bidsCount": 8,
+		"image": "https://i.ibb.co/NgybH7Jy/Bid7-min.png"
+	}
+	
+
+	
+	
+]
